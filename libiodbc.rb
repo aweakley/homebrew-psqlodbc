@@ -2,7 +2,7 @@ require 'formula'
 
 class Libiodbc < Formula
   homepage 'https://github.com/openlink/iODBC'
-  url 'http://surfnet.dl.sourceforge.net/project/iodbc/iodbc/3.52.8/libiodbc-3.52.8.tar.gz'
+  url 'http://downloads.sourceforge.net/project/iodbc/iodbc/3.52.8/libiodbc-3.52.8.tar.gz?r=&ts=1414026858&use_mirror=aarnet'
   sha1 '93a3f061afff3152c5fcee1e5af8b802760a7e74'
 
   def install
